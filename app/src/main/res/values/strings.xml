@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <string name="add_1">Add +1</string>
+</resources>
